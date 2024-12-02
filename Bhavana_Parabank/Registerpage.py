@@ -2,6 +2,9 @@ import time
 
 from selenium.webdriver.common.by import By
 
+from BhavanaPractice.Parabank.Parabank2.Usercredential import firstName, lastName, street, city, state, zipcode, \
+    phonenumber, username, ssn, password, reenter
+
 # def login(driver):
 #     time.sleep(2)
 #     driver.find_element(By.XPATH,'//*[@id="loginPanel"]/form/div[1]/input').send_keys("BhavanaMH")
