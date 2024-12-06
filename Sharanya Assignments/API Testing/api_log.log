@@ -1,0 +1,2640 @@
+2024-12-06 12:27:14,165 - Status Check Response: null
+2024-12-06 12:28:53,266 - Status Check Response: [
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "power-tools",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "ladders",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 6543,
+        "category": "electric-generators",
+        "name": "GENMAX 3200 Watt Inverter Generator",
+        "inStock": false
+    },
+    {
+        "id": 3674,
+        "category": "power-tools",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "power-tools",
+        "name": "20V Max Drill & Home Tool Kit",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "power-tools",
+        "name": "20V MAX Cordless Drill Combo Kit",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "power-tools",
+        "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "ladders",
+        "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "trailers",
+        "name": "Tilt Trailer 7,000 lbs.",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "plumbing",
+        "name": "Pipe Threader",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "plumbing",
+        "name": "Submersible Water Removal Pump",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "plumbing",
+        "name": "Manual Drain Auger 25ft",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "trailers",
+        "name": "Single Axle Dump Trailer 2,990 lbs",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "trailers",
+        "name": "Single Axle Utility Trailer 4,995 lbs.",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "electric-generators",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    },
+    {
+        "id": 5499,
+        "category": "electric-generators",
+        "name": "3000 Watt Inverter Generator",
+        "inStock": true
+    },
+    {
+        "id": 3486,
+        "category": "electric-generators",
+        "name": "7000 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+2024-12-06 12:30:44,395 - Get All Tools: [
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "power-tools",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "ladders",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 6543,
+        "category": "electric-generators",
+        "name": "GENMAX 3200 Watt Inverter Generator",
+        "inStock": false
+    },
+    {
+        "id": 3674,
+        "category": "power-tools",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "power-tools",
+        "name": "20V Max Drill & Home Tool Kit",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "power-tools",
+        "name": "20V MAX Cordless Drill Combo Kit",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "power-tools",
+        "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "ladders",
+        "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "trailers",
+        "name": "Tilt Trailer 7,000 lbs.",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "plumbing",
+        "name": "Pipe Threader",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "plumbing",
+        "name": "Submersible Water Removal Pump",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "plumbing",
+        "name": "Manual Drain Auger 25ft",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "trailers",
+        "name": "Single Axle Dump Trailer 2,990 lbs",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "trailers",
+        "name": "Single Axle Utility Trailer 4,995 lbs.",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "electric-generators",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    },
+    {
+        "id": 5499,
+        "category": "electric-generators",
+        "name": "3000 Watt Inverter Generator",
+        "inStock": true
+    },
+    {
+        "id": 3486,
+        "category": "electric-generators",
+        "name": "7000 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+2024-12-06 12:32:07,494 - Get All Tools: [
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "power-tools",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "ladders",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 6543,
+        "category": "electric-generators",
+        "name": "GENMAX 3200 Watt Inverter Generator",
+        "inStock": false
+    },
+    {
+        "id": 3674,
+        "category": "power-tools",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "power-tools",
+        "name": "20V Max Drill & Home Tool Kit",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "power-tools",
+        "name": "20V MAX Cordless Drill Combo Kit",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "power-tools",
+        "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "ladders",
+        "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "trailers",
+        "name": "Tilt Trailer 7,000 lbs.",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "plumbing",
+        "name": "Pipe Threader",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "plumbing",
+        "name": "Submersible Water Removal Pump",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "plumbing",
+        "name": "Manual Drain Auger 25ft",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "trailers",
+        "name": "Single Axle Dump Trailer 2,990 lbs",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "trailers",
+        "name": "Single Axle Utility Trailer 4,995 lbs.",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "electric-generators",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    },
+    {
+        "id": 5499,
+        "category": "electric-generators",
+        "name": "3000 Watt Inverter Generator",
+        "inStock": true
+    },
+    {
+        "id": 3486,
+        "category": "electric-generators",
+        "name": "7000 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+2024-12-06 12:32:42,087 - Get All Tools: [
+    [
+        {
+            "id": 4643,
+            "category": "plumbing",
+            "name": "PEX Clamp Tool",
+            "inStock": true
+        },
+        {
+            "id": 1225,
+            "category": "power-tools",
+            "name": "1/2 in. Brushless Hammer Drill",
+            "inStock": true
+        },
+        {
+            "id": 2177,
+            "category": "ladders",
+            "name": "Cosco Three Step Steel Platform",
+            "inStock": true
+        },
+        {
+            "id": 6543,
+            "category": "electric-generators",
+            "name": "GENMAX 3200 Watt Inverter Generator",
+            "inStock": false
+        },
+        {
+            "id": 3674,
+            "category": "power-tools",
+            "name": "20V Max Cordless Drill Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 2585,
+            "category": "power-tools",
+            "name": "20V Max Drill & Home Tool Kit",
+            "inStock": true
+        },
+        {
+            "id": 5851,
+            "category": "power-tools",
+            "name": "20V MAX Cordless Drill Combo Kit",
+            "inStock": false
+        },
+        {
+            "id": 8739,
+            "category": "power-tools",
+            "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+            "inStock": true
+        },
+        {
+            "id": 7395,
+            "category": "ladders",
+            "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 8554,
+            "category": "trailers",
+            "name": "Tilt Trailer 7,000 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 8753,
+            "category": "plumbing",
+            "name": "Pipe Threader",
+            "inStock": true
+        },
+        {
+            "id": 9482,
+            "category": "plumbing",
+            "name": "Submersible Water Removal Pump",
+            "inStock": true
+        },
+        {
+            "id": 5477,
+            "category": "plumbing",
+            "name": "Manual Drain Auger 25ft",
+            "inStock": true
+        },
+        {
+            "id": 6483,
+            "category": "trailers",
+            "name": "Single Axle Dump Trailer 2,990 lbs",
+            "inStock": true
+        },
+        {
+            "id": 5774,
+            "category": "trailers",
+            "name": "Single Axle Utility Trailer 4,995 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 4875,
+            "category": "electric-generators",
+            "name": "2800 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 5499,
+            "category": "electric-generators",
+            "name": "3000 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 3486,
+            "category": "electric-generators",
+            "name": "7000 Watt Inverter Generator",
+            "inStock": true
+        }
+    ],
+    200
+]
+2024-12-06 12:33:00,283 - Get All Tools: [
+    200,
+    [
+        {
+            "id": 4643,
+            "category": "plumbing",
+            "name": "PEX Clamp Tool",
+            "inStock": true
+        },
+        {
+            "id": 1225,
+            "category": "power-tools",
+            "name": "1/2 in. Brushless Hammer Drill",
+            "inStock": true
+        },
+        {
+            "id": 2177,
+            "category": "ladders",
+            "name": "Cosco Three Step Steel Platform",
+            "inStock": true
+        },
+        {
+            "id": 6543,
+            "category": "electric-generators",
+            "name": "GENMAX 3200 Watt Inverter Generator",
+            "inStock": false
+        },
+        {
+            "id": 3674,
+            "category": "power-tools",
+            "name": "20V Max Cordless Drill Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 2585,
+            "category": "power-tools",
+            "name": "20V Max Drill & Home Tool Kit",
+            "inStock": true
+        },
+        {
+            "id": 5851,
+            "category": "power-tools",
+            "name": "20V MAX Cordless Drill Combo Kit",
+            "inStock": false
+        },
+        {
+            "id": 8739,
+            "category": "power-tools",
+            "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+            "inStock": true
+        },
+        {
+            "id": 7395,
+            "category": "ladders",
+            "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 8554,
+            "category": "trailers",
+            "name": "Tilt Trailer 7,000 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 8753,
+            "category": "plumbing",
+            "name": "Pipe Threader",
+            "inStock": true
+        },
+        {
+            "id": 9482,
+            "category": "plumbing",
+            "name": "Submersible Water Removal Pump",
+            "inStock": true
+        },
+        {
+            "id": 5477,
+            "category": "plumbing",
+            "name": "Manual Drain Auger 25ft",
+            "inStock": true
+        },
+        {
+            "id": 6483,
+            "category": "trailers",
+            "name": "Single Axle Dump Trailer 2,990 lbs",
+            "inStock": true
+        },
+        {
+            "id": 5774,
+            "category": "trailers",
+            "name": "Single Axle Utility Trailer 4,995 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 4875,
+            "category": "electric-generators",
+            "name": "2800 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 5499,
+            "category": "electric-generators",
+            "name": "3000 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 3486,
+            "category": "electric-generators",
+            "name": "7000 Watt Inverter Generator",
+            "inStock": true
+        }
+    ]
+]
+2024-12-06 12:36:27,780 - Get All Tools: [
+    200,
+    [
+        {
+            "id": 4643,
+            "category": "plumbing",
+            "name": "PEX Clamp Tool",
+            "inStock": true
+        },
+        {
+            "id": 1225,
+            "category": "power-tools",
+            "name": "1/2 in. Brushless Hammer Drill",
+            "inStock": true
+        },
+        {
+            "id": 2177,
+            "category": "ladders",
+            "name": "Cosco Three Step Steel Platform",
+            "inStock": true
+        },
+        {
+            "id": 6543,
+            "category": "electric-generators",
+            "name": "GENMAX 3200 Watt Inverter Generator",
+            "inStock": false
+        },
+        {
+            "id": 3674,
+            "category": "power-tools",
+            "name": "20V Max Cordless Drill Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 2585,
+            "category": "power-tools",
+            "name": "20V Max Drill & Home Tool Kit",
+            "inStock": true
+        },
+        {
+            "id": 5851,
+            "category": "power-tools",
+            "name": "20V MAX Cordless Drill Combo Kit",
+            "inStock": false
+        },
+        {
+            "id": 8739,
+            "category": "power-tools",
+            "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+            "inStock": true
+        },
+        {
+            "id": 7395,
+            "category": "ladders",
+            "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 8554,
+            "category": "trailers",
+            "name": "Tilt Trailer 7,000 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 8753,
+            "category": "plumbing",
+            "name": "Pipe Threader",
+            "inStock": true
+        },
+        {
+            "id": 9482,
+            "category": "plumbing",
+            "name": "Submersible Water Removal Pump",
+            "inStock": true
+        },
+        {
+            "id": 5477,
+            "category": "plumbing",
+            "name": "Manual Drain Auger 25ft",
+            "inStock": true
+        },
+        {
+            "id": 6483,
+            "category": "trailers",
+            "name": "Single Axle Dump Trailer 2,990 lbs",
+            "inStock": true
+        },
+        {
+            "id": 5774,
+            "category": "trailers",
+            "name": "Single Axle Utility Trailer 4,995 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 4875,
+            "category": "electric-generators",
+            "name": "2800 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 5499,
+            "category": "electric-generators",
+            "name": "3000 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 3486,
+            "category": "electric-generators",
+            "name": "7000 Watt Inverter Generator",
+            "inStock": true
+        }
+    ]
+]
+2024-12-06 12:36:28,858 - Get Single Tools: [
+    200,
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "manufacturer": "JWGJW",
+        "price": 3.45,
+        "current-stock": 14,
+        "inStock": true
+    }
+]
+2024-12-06 12:36:30,001 - Create New Order: [
+    201,
+    {
+        "created": true,
+        "orderId": "t9QcOR0EhO8xl91ubGV9h"
+    }
+]
+2024-12-06 12:36:31,085 - Get All Orders: [
+    200,
+    [
+        {
+            "id": "2nqyaJHV5cuppOQH8V9a5",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T06:31:14.301Z",
+            "comment": ""
+        },
+        {
+            "id": "Tte6q0GBrtvZ_0UlH-e70",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:54:32.240Z",
+            "comment": ""
+        },
+        {
+            "id": "y7uWOFrD24jIy9winhUcL",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:57:22.235Z",
+            "comment": ""
+        },
+        {
+            "id": "fpg4DBrq2VvVDeUwr1sjE",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T11:28:18.620Z",
+            "comment": ""
+        },
+        {
+            "id": "y26TC3FSZb0W2I3tD5_25",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T11:28:42.823Z",
+            "comment": ""
+        },
+        {
+            "id": "Gt_q7rfU-SnuLQCVklf1T",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T11:29:18.747Z",
+            "comment": ""
+        },
+        {
+            "id": "j5HZWSXBZLfBYScCwm39B",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T04:29:58.494Z",
+            "comment": ""
+        },
+        {
+            "id": "t9QcOR0EhO8xl91ubGV9h",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:06:29.901Z",
+            "comment": ""
+        }
+    ]
+]
+2024-12-06 12:36:32,271 - Get Single Order: [
+    200,
+    {
+        "id": "fpg4DBrq2VvVDeUwr1sjE",
+        "toolId": 4643,
+        "customerName": "Joe",
+        "createdBy": "a373ef72b2ac8adbff1399bed438e80d0fdfe11515871ef9714885ccebb2a91d",
+        "quantity": 1,
+        "created": "2024-12-05T11:28:18.620Z",
+        "timestamp": 1733398098620,
+        "processed": false,
+        "comment": ""
+    }
+]
+2024-12-06 12:36:33,487 - Delete Order: 204
+2024-12-06 12:37:02,935 - Get All Tools: [
+    200,
+    [
+        {
+            "id": 4643,
+            "category": "plumbing",
+            "name": "PEX Clamp Tool",
+            "inStock": true
+        },
+        {
+            "id": 1225,
+            "category": "power-tools",
+            "name": "1/2 in. Brushless Hammer Drill",
+            "inStock": true
+        },
+        {
+            "id": 2177,
+            "category": "ladders",
+            "name": "Cosco Three Step Steel Platform",
+            "inStock": true
+        },
+        {
+            "id": 6543,
+            "category": "electric-generators",
+            "name": "GENMAX 3200 Watt Inverter Generator",
+            "inStock": false
+        },
+        {
+            "id": 3674,
+            "category": "power-tools",
+            "name": "20V Max Cordless Drill Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 2585,
+            "category": "power-tools",
+            "name": "20V Max Drill & Home Tool Kit",
+            "inStock": true
+        },
+        {
+            "id": 5851,
+            "category": "power-tools",
+            "name": "20V MAX Cordless Drill Combo Kit",
+            "inStock": false
+        },
+        {
+            "id": 8739,
+            "category": "power-tools",
+            "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+            "inStock": true
+        },
+        {
+            "id": 7395,
+            "category": "ladders",
+            "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 8554,
+            "category": "trailers",
+            "name": "Tilt Trailer 7,000 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 8753,
+            "category": "plumbing",
+            "name": "Pipe Threader",
+            "inStock": true
+        },
+        {
+            "id": 9482,
+            "category": "plumbing",
+            "name": "Submersible Water Removal Pump",
+            "inStock": true
+        },
+        {
+            "id": 5477,
+            "category": "plumbing",
+            "name": "Manual Drain Auger 25ft",
+            "inStock": true
+        },
+        {
+            "id": 6483,
+            "category": "trailers",
+            "name": "Single Axle Dump Trailer 2,990 lbs",
+            "inStock": true
+        },
+        {
+            "id": 5774,
+            "category": "trailers",
+            "name": "Single Axle Utility Trailer 4,995 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 4875,
+            "category": "electric-generators",
+            "name": "2800 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 5499,
+            "category": "electric-generators",
+            "name": "3000 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 3486,
+            "category": "electric-generators",
+            "name": "7000 Watt Inverter Generator",
+            "inStock": true
+        }
+    ]
+]
+2024-12-06 12:37:04,132 - Get Single Tools: [
+    200,
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "manufacturer": "JWGJW",
+        "price": 3.45,
+        "current-stock": 14,
+        "inStock": true
+    }
+]
+2024-12-06 12:37:05,248 - Create New Order: [
+    201,
+    {
+        "created": true,
+        "orderId": "-BAqOBfuZzILRmZZxDcDB"
+    }
+]
+2024-12-06 12:37:06,428 - Get All Orders: [
+    200,
+    [
+        {
+            "id": "2nqyaJHV5cuppOQH8V9a5",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T06:31:14.301Z",
+            "comment": ""
+        },
+        {
+            "id": "Tte6q0GBrtvZ_0UlH-e70",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:54:32.240Z",
+            "comment": ""
+        },
+        {
+            "id": "y7uWOFrD24jIy9winhUcL",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:57:22.235Z",
+            "comment": ""
+        },
+        {
+            "id": "fpg4DBrq2VvVDeUwr1sjE",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T11:28:18.620Z",
+            "comment": ""
+        },
+        {
+            "id": "Gt_q7rfU-SnuLQCVklf1T",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T11:29:18.747Z",
+            "comment": ""
+        },
+        {
+            "id": "j5HZWSXBZLfBYScCwm39B",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T04:29:58.494Z",
+            "comment": ""
+        },
+        {
+            "id": "t9QcOR0EhO8xl91ubGV9h",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:06:29.901Z",
+            "comment": ""
+        },
+        {
+            "id": "-BAqOBfuZzILRmZZxDcDB",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:07:05.124Z",
+            "comment": ""
+        }
+    ]
+]
+2024-12-06 12:37:07,531 - Get Single Order: [
+    200,
+    {
+        "id": "fpg4DBrq2VvVDeUwr1sjE",
+        "toolId": 4643,
+        "customerName": "Joe",
+        "createdBy": "a373ef72b2ac8adbff1399bed438e80d0fdfe11515871ef9714885ccebb2a91d",
+        "quantity": 1,
+        "created": "2024-12-05T11:28:18.620Z",
+        "timestamp": 1733398098620,
+        "processed": false,
+        "comment": ""
+    }
+]
+2024-12-06 12:37:08,659 - Update Order: 204
+2024-12-06 12:37:09,739 - Delete Order: 404
+2024-12-06 12:37:59,946 - Get All Tools: [
+    200,
+    [
+        {
+            "id": 4643,
+            "category": "plumbing",
+            "name": "PEX Clamp Tool",
+            "inStock": true
+        },
+        {
+            "id": 1225,
+            "category": "power-tools",
+            "name": "1/2 in. Brushless Hammer Drill",
+            "inStock": true
+        },
+        {
+            "id": 2177,
+            "category": "ladders",
+            "name": "Cosco Three Step Steel Platform",
+            "inStock": true
+        },
+        {
+            "id": 6543,
+            "category": "electric-generators",
+            "name": "GENMAX 3200 Watt Inverter Generator",
+            "inStock": false
+        },
+        {
+            "id": 3674,
+            "category": "power-tools",
+            "name": "20V Max Cordless Drill Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 2585,
+            "category": "power-tools",
+            "name": "20V Max Drill & Home Tool Kit",
+            "inStock": true
+        },
+        {
+            "id": 5851,
+            "category": "power-tools",
+            "name": "20V MAX Cordless Drill Combo Kit",
+            "inStock": false
+        },
+        {
+            "id": 8739,
+            "category": "power-tools",
+            "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+            "inStock": true
+        },
+        {
+            "id": 7395,
+            "category": "ladders",
+            "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 8554,
+            "category": "trailers",
+            "name": "Tilt Trailer 7,000 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 8753,
+            "category": "plumbing",
+            "name": "Pipe Threader",
+            "inStock": true
+        },
+        {
+            "id": 9482,
+            "category": "plumbing",
+            "name": "Submersible Water Removal Pump",
+            "inStock": true
+        },
+        {
+            "id": 5477,
+            "category": "plumbing",
+            "name": "Manual Drain Auger 25ft",
+            "inStock": true
+        },
+        {
+            "id": 6483,
+            "category": "trailers",
+            "name": "Single Axle Dump Trailer 2,990 lbs",
+            "inStock": true
+        },
+        {
+            "id": 5774,
+            "category": "trailers",
+            "name": "Single Axle Utility Trailer 4,995 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 4875,
+            "category": "electric-generators",
+            "name": "2800 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 5499,
+            "category": "electric-generators",
+            "name": "3000 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 3486,
+            "category": "electric-generators",
+            "name": "7000 Watt Inverter Generator",
+            "inStock": true
+        }
+    ]
+]
+2024-12-06 12:38:01,060 - Get Single Tools: [
+    200,
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "manufacturer": "JWGJW",
+        "price": 3.45,
+        "current-stock": 14,
+        "inStock": true
+    }
+]
+2024-12-06 12:38:02,256 - Create New Order: [
+    201,
+    {
+        "created": true,
+        "orderId": "9MQlRznN0IgBx74MH82FE"
+    }
+]
+2024-12-06 12:38:03,430 - Get All Orders: [
+    200,
+    [
+        {
+            "id": "2nqyaJHV5cuppOQH8V9a5",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T06:31:14.301Z",
+            "comment": ""
+        },
+        {
+            "id": "Tte6q0GBrtvZ_0UlH-e70",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:54:32.240Z",
+            "comment": ""
+        },
+        {
+            "id": "y7uWOFrD24jIy9winhUcL",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:57:22.235Z",
+            "comment": ""
+        },
+        {
+            "id": "fpg4DBrq2VvVDeUwr1sjE",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T11:28:18.620Z",
+            "comment": ""
+        },
+        {
+            "id": "Gt_q7rfU-SnuLQCVklf1T",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T11:29:18.747Z",
+            "comment": ""
+        },
+        {
+            "id": "j5HZWSXBZLfBYScCwm39B",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T04:29:58.494Z",
+            "comment": ""
+        },
+        {
+            "id": "t9QcOR0EhO8xl91ubGV9h",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:06:29.901Z",
+            "comment": ""
+        },
+        {
+            "id": "-BAqOBfuZzILRmZZxDcDB",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:07:05.124Z",
+            "comment": ""
+        },
+        {
+            "id": "9MQlRznN0IgBx74MH82FE",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:08:02.065Z",
+            "comment": ""
+        }
+    ]
+]
+2024-12-06 12:38:04,500 - Get Single Order: [
+    200,
+    {
+        "id": "fpg4DBrq2VvVDeUwr1sjE",
+        "toolId": 4643,
+        "customerName": "Joe",
+        "createdBy": "a373ef72b2ac8adbff1399bed438e80d0fdfe11515871ef9714885ccebb2a91d",
+        "quantity": 1,
+        "created": "2024-12-05T11:28:18.620Z",
+        "timestamp": 1733398098620,
+        "processed": false,
+        "comment": ""
+    }
+]
+2024-12-06 12:38:05,540 - Update Order: 204
+2024-12-06 12:38:06,568 - Delete Order: 204
+2024-12-06 12:47:54,361 - Get All Tools: [
+    200,
+    [
+        {
+            "id": 4643,
+            "category": "plumbing",
+            "name": "PEX Clamp Tool",
+            "inStock": true
+        },
+        {
+            "id": 1225,
+            "category": "power-tools",
+            "name": "1/2 in. Brushless Hammer Drill",
+            "inStock": true
+        },
+        {
+            "id": 2177,
+            "category": "ladders",
+            "name": "Cosco Three Step Steel Platform",
+            "inStock": true
+        },
+        {
+            "id": 6543,
+            "category": "electric-generators",
+            "name": "GENMAX 3200 Watt Inverter Generator",
+            "inStock": false
+        },
+        {
+            "id": 3674,
+            "category": "power-tools",
+            "name": "20V Max Cordless Drill Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 2585,
+            "category": "power-tools",
+            "name": "20V Max Drill & Home Tool Kit",
+            "inStock": true
+        },
+        {
+            "id": 5851,
+            "category": "power-tools",
+            "name": "20V MAX Cordless Drill Combo Kit",
+            "inStock": false
+        },
+        {
+            "id": 8739,
+            "category": "power-tools",
+            "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+            "inStock": true
+        },
+        {
+            "id": 7395,
+            "category": "ladders",
+            "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 8554,
+            "category": "trailers",
+            "name": "Tilt Trailer 7,000 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 8753,
+            "category": "plumbing",
+            "name": "Pipe Threader",
+            "inStock": true
+        },
+        {
+            "id": 9482,
+            "category": "plumbing",
+            "name": "Submersible Water Removal Pump",
+            "inStock": true
+        },
+        {
+            "id": 5477,
+            "category": "plumbing",
+            "name": "Manual Drain Auger 25ft",
+            "inStock": true
+        },
+        {
+            "id": 6483,
+            "category": "trailers",
+            "name": "Single Axle Dump Trailer 2,990 lbs",
+            "inStock": true
+        },
+        {
+            "id": 5774,
+            "category": "trailers",
+            "name": "Single Axle Utility Trailer 4,995 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 4875,
+            "category": "electric-generators",
+            "name": "2800 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 5499,
+            "category": "electric-generators",
+            "name": "3000 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 3486,
+            "category": "electric-generators",
+            "name": "7000 Watt Inverter Generator",
+            "inStock": true
+        }
+    ]
+]
+2024-12-06 12:47:55,487 - Get Single Tools: [
+    200,
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "manufacturer": "JWGJW",
+        "price": 3.45,
+        "current-stock": 14,
+        "inStock": true
+    }
+]
+2024-12-06 12:47:56,719 - Create New Order: [
+    201,
+    {
+        "created": true,
+        "orderId": "V9moZXdUxjIpZWO1F4Re_"
+    }
+]
+2024-12-06 12:47:58,076 - Get All Orders: [
+    200,
+    [
+        {
+            "id": "2nqyaJHV5cuppOQH8V9a5",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T06:31:14.301Z",
+            "comment": ""
+        },
+        {
+            "id": "Tte6q0GBrtvZ_0UlH-e70",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:54:32.240Z",
+            "comment": ""
+        },
+        {
+            "id": "y7uWOFrD24jIy9winhUcL",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:57:22.235Z",
+            "comment": ""
+        },
+        {
+            "id": "Gt_q7rfU-SnuLQCVklf1T",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T11:29:18.747Z",
+            "comment": ""
+        },
+        {
+            "id": "j5HZWSXBZLfBYScCwm39B",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T04:29:58.494Z",
+            "comment": ""
+        },
+        {
+            "id": "t9QcOR0EhO8xl91ubGV9h",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:06:29.901Z",
+            "comment": ""
+        },
+        {
+            "id": "-BAqOBfuZzILRmZZxDcDB",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:07:05.124Z",
+            "comment": ""
+        },
+        {
+            "id": "9MQlRznN0IgBx74MH82FE",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:08:02.065Z",
+            "comment": ""
+        },
+        {
+            "id": "V9moZXdUxjIpZWO1F4Re_",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:17:56.566Z",
+            "comment": ""
+        }
+    ]
+]
+2024-12-06 12:47:59,167 - Get Single Order: [
+    404,
+    {
+        "error": "No order with id fpg4DBrq2VvVDeUwr1sjE."
+    }
+]
+2024-12-06 12:48:00,161 - Update Order: 404
+2024-12-06 12:48:01,200 - Delete Order: 404
+2024-12-06 12:48:44,556 - Get All Tools: [
+    200,
+    [
+        {
+            "id": 4643,
+            "category": "plumbing",
+            "name": "PEX Clamp Tool",
+            "inStock": true
+        },
+        {
+            "id": 1225,
+            "category": "power-tools",
+            "name": "1/2 in. Brushless Hammer Drill",
+            "inStock": true
+        },
+        {
+            "id": 2177,
+            "category": "ladders",
+            "name": "Cosco Three Step Steel Platform",
+            "inStock": true
+        },
+        {
+            "id": 6543,
+            "category": "electric-generators",
+            "name": "GENMAX 3200 Watt Inverter Generator",
+            "inStock": false
+        },
+        {
+            "id": 3674,
+            "category": "power-tools",
+            "name": "20V Max Cordless Drill Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 2585,
+            "category": "power-tools",
+            "name": "20V Max Drill & Home Tool Kit",
+            "inStock": true
+        },
+        {
+            "id": 5851,
+            "category": "power-tools",
+            "name": "20V MAX Cordless Drill Combo Kit",
+            "inStock": false
+        },
+        {
+            "id": 8739,
+            "category": "power-tools",
+            "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+            "inStock": true
+        },
+        {
+            "id": 7395,
+            "category": "ladders",
+            "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 8554,
+            "category": "trailers",
+            "name": "Tilt Trailer 7,000 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 8753,
+            "category": "plumbing",
+            "name": "Pipe Threader",
+            "inStock": true
+        },
+        {
+            "id": 9482,
+            "category": "plumbing",
+            "name": "Submersible Water Removal Pump",
+            "inStock": true
+        },
+        {
+            "id": 5477,
+            "category": "plumbing",
+            "name": "Manual Drain Auger 25ft",
+            "inStock": true
+        },
+        {
+            "id": 6483,
+            "category": "trailers",
+            "name": "Single Axle Dump Trailer 2,990 lbs",
+            "inStock": true
+        },
+        {
+            "id": 5774,
+            "category": "trailers",
+            "name": "Single Axle Utility Trailer 4,995 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 4875,
+            "category": "electric-generators",
+            "name": "2800 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 5499,
+            "category": "electric-generators",
+            "name": "3000 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 3486,
+            "category": "electric-generators",
+            "name": "7000 Watt Inverter Generator",
+            "inStock": true
+        }
+    ]
+]
+2024-12-06 12:48:45,600 - Get Single Tools: [
+    200,
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "manufacturer": "JWGJW",
+        "price": 3.45,
+        "current-stock": 14,
+        "inStock": true
+    }
+]
+2024-12-06 12:48:46,611 - Create New Order: [
+    201,
+    {
+        "created": true,
+        "orderId": "AKyMgHk-theto9mxa9ov6"
+    }
+]
+2024-12-06 12:48:47,643 - Get All Orders: [
+    200,
+    [
+        {
+            "id": "2nqyaJHV5cuppOQH8V9a5",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T06:31:14.301Z",
+            "comment": ""
+        },
+        {
+            "id": "Tte6q0GBrtvZ_0UlH-e70",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:54:32.240Z",
+            "comment": ""
+        },
+        {
+            "id": "y7uWOFrD24jIy9winhUcL",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:57:22.235Z",
+            "comment": ""
+        },
+        {
+            "id": "Gt_q7rfU-SnuLQCVklf1T",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T11:29:18.747Z",
+            "comment": ""
+        },
+        {
+            "id": "j5HZWSXBZLfBYScCwm39B",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T04:29:58.494Z",
+            "comment": ""
+        },
+        {
+            "id": "t9QcOR0EhO8xl91ubGV9h",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:06:29.901Z",
+            "comment": ""
+        },
+        {
+            "id": "-BAqOBfuZzILRmZZxDcDB",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:07:05.124Z",
+            "comment": ""
+        },
+        {
+            "id": "9MQlRznN0IgBx74MH82FE",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:08:02.065Z",
+            "comment": ""
+        },
+        {
+            "id": "V9moZXdUxjIpZWO1F4Re_",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:17:56.566Z",
+            "comment": ""
+        },
+        {
+            "id": "AKyMgHk-theto9mxa9ov6",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:18:46.500Z",
+            "comment": ""
+        }
+    ]
+]
+2024-12-06 12:48:48,634 - Get Single Order: [
+    404,
+    {
+        "error": "No order with id fpg4DBrq2VvVDeUwr1sjE."
+    }
+]
+2024-12-06 12:48:49,704 - Update Order: 404
+2024-12-06 12:48:50,654 - Delete Order: 404
+2024-12-06 13:01:42,875 - Get All Tools: [
+    200,
+    [
+        {
+            "id": 4643,
+            "category": "plumbing",
+            "name": "PEX Clamp Tool",
+            "inStock": true
+        },
+        {
+            "id": 1225,
+            "category": "power-tools",
+            "name": "1/2 in. Brushless Hammer Drill",
+            "inStock": true
+        },
+        {
+            "id": 2177,
+            "category": "ladders",
+            "name": "Cosco Three Step Steel Platform",
+            "inStock": true
+        },
+        {
+            "id": 6543,
+            "category": "electric-generators",
+            "name": "GENMAX 3200 Watt Inverter Generator",
+            "inStock": false
+        },
+        {
+            "id": 3674,
+            "category": "power-tools",
+            "name": "20V Max Cordless Drill Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 2585,
+            "category": "power-tools",
+            "name": "20V Max Drill & Home Tool Kit",
+            "inStock": true
+        },
+        {
+            "id": 5851,
+            "category": "power-tools",
+            "name": "20V MAX Cordless Drill Combo Kit",
+            "inStock": false
+        },
+        {
+            "id": 8739,
+            "category": "power-tools",
+            "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+            "inStock": true
+        },
+        {
+            "id": 7395,
+            "category": "ladders",
+            "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 8554,
+            "category": "trailers",
+            "name": "Tilt Trailer 7,000 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 8753,
+            "category": "plumbing",
+            "name": "Pipe Threader",
+            "inStock": true
+        },
+        {
+            "id": 9482,
+            "category": "plumbing",
+            "name": "Submersible Water Removal Pump",
+            "inStock": true
+        },
+        {
+            "id": 5477,
+            "category": "plumbing",
+            "name": "Manual Drain Auger 25ft",
+            "inStock": true
+        },
+        {
+            "id": 6483,
+            "category": "trailers",
+            "name": "Single Axle Dump Trailer 2,990 lbs",
+            "inStock": true
+        },
+        {
+            "id": 5774,
+            "category": "trailers",
+            "name": "Single Axle Utility Trailer 4,995 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 4875,
+            "category": "electric-generators",
+            "name": "2800 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 5499,
+            "category": "electric-generators",
+            "name": "3000 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 3486,
+            "category": "electric-generators",
+            "name": "7000 Watt Inverter Generator",
+            "inStock": true
+        }
+    ]
+]
+2024-12-06 13:01:44,088 - Get Single Tools: [
+    200,
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "manufacturer": "JWGJW",
+        "price": 3.45,
+        "current-stock": 14,
+        "inStock": true
+    }
+]
+2024-12-06 13:01:45,231 - Create New Order: [
+    201,
+    {
+        "created": true,
+        "orderId": "icQaymrZ2-SgwTNVjE-J4"
+    }
+]
+2024-12-06 13:01:46,460 - Get All Orders: [
+    200,
+    [
+        {
+            "id": "2nqyaJHV5cuppOQH8V9a5",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T06:31:14.301Z",
+            "comment": ""
+        },
+        {
+            "id": "Tte6q0GBrtvZ_0UlH-e70",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:54:32.240Z",
+            "comment": ""
+        },
+        {
+            "id": "y7uWOFrD24jIy9winhUcL",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:57:22.235Z",
+            "comment": ""
+        },
+        {
+            "id": "Gt_q7rfU-SnuLQCVklf1T",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T11:29:18.747Z",
+            "comment": ""
+        },
+        {
+            "id": "j5HZWSXBZLfBYScCwm39B",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T04:29:58.494Z",
+            "comment": ""
+        },
+        {
+            "id": "t9QcOR0EhO8xl91ubGV9h",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:06:29.901Z",
+            "comment": ""
+        },
+        {
+            "id": "-BAqOBfuZzILRmZZxDcDB",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:07:05.124Z",
+            "comment": ""
+        },
+        {
+            "id": "9MQlRznN0IgBx74MH82FE",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:08:02.065Z",
+            "comment": ""
+        },
+        {
+            "id": "V9moZXdUxjIpZWO1F4Re_",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:17:56.566Z",
+            "comment": ""
+        },
+        {
+            "id": "AKyMgHk-theto9mxa9ov6",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:18:46.500Z",
+            "comment": ""
+        },
+        {
+            "id": "r-EzYoD2rYoP3ShZyLcfS",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:21:22.621Z",
+            "comment": ""
+        },
+        {
+            "id": "CuOqn-SQ14YA6Ww-qrgc4",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:22:07.156Z",
+            "comment": ""
+        },
+        {
+            "id": "r8Lt7PjuM_RdioHdXmtcx",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:22:19.623Z",
+            "comment": ""
+        },
+        {
+            "id": "5n70Ch2cmqyXgPbeEDnEA",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:30:25.979Z",
+            "comment": ""
+        },
+        {
+            "id": "icQaymrZ2-SgwTNVjE-J4",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:31:45.122Z",
+            "comment": ""
+        }
+    ]
+]
+2024-12-06 13:01:47,790 - Get Single Order: [
+    404,
+    {
+        "error": "No order with id fpg4DBrq2VvVDeUwr1sjE."
+    }
+]
+2024-12-06 13:01:49,007 - Update Order: 404
+2024-12-06 13:01:50,197 - Delete Order: 404
+2024-12-06 13:02:00,890 - Get All Tools: [
+    200,
+    [
+        {
+            "id": 4643,
+            "category": "plumbing",
+            "name": "PEX Clamp Tool",
+            "inStock": true
+        },
+        {
+            "id": 1225,
+            "category": "power-tools",
+            "name": "1/2 in. Brushless Hammer Drill",
+            "inStock": true
+        },
+        {
+            "id": 2177,
+            "category": "ladders",
+            "name": "Cosco Three Step Steel Platform",
+            "inStock": true
+        },
+        {
+            "id": 6543,
+            "category": "electric-generators",
+            "name": "GENMAX 3200 Watt Inverter Generator",
+            "inStock": false
+        },
+        {
+            "id": 3674,
+            "category": "power-tools",
+            "name": "20V Max Cordless Drill Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 2585,
+            "category": "power-tools",
+            "name": "20V Max Drill & Home Tool Kit",
+            "inStock": true
+        },
+        {
+            "id": 5851,
+            "category": "power-tools",
+            "name": "20V MAX Cordless Drill Combo Kit",
+            "inStock": false
+        },
+        {
+            "id": 8739,
+            "category": "power-tools",
+            "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+            "inStock": true
+        },
+        {
+            "id": 7395,
+            "category": "ladders",
+            "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 8554,
+            "category": "trailers",
+            "name": "Tilt Trailer 7,000 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 8753,
+            "category": "plumbing",
+            "name": "Pipe Threader",
+            "inStock": true
+        },
+        {
+            "id": 9482,
+            "category": "plumbing",
+            "name": "Submersible Water Removal Pump",
+            "inStock": true
+        },
+        {
+            "id": 5477,
+            "category": "plumbing",
+            "name": "Manual Drain Auger 25ft",
+            "inStock": true
+        },
+        {
+            "id": 6483,
+            "category": "trailers",
+            "name": "Single Axle Dump Trailer 2,990 lbs",
+            "inStock": true
+        },
+        {
+            "id": 5774,
+            "category": "trailers",
+            "name": "Single Axle Utility Trailer 4,995 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 4875,
+            "category": "electric-generators",
+            "name": "2800 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 5499,
+            "category": "electric-generators",
+            "name": "3000 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 3486,
+            "category": "electric-generators",
+            "name": "7000 Watt Inverter Generator",
+            "inStock": true
+        }
+    ]
+]
+2024-12-06 13:02:02,018 - Get Single Tools: [
+    200,
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "manufacturer": "JWGJW",
+        "price": 3.45,
+        "current-stock": 14,
+        "inStock": true
+    }
+]
+2024-12-06 13:02:03,339 - Create New Order: [
+    201,
+    {
+        "created": true,
+        "orderId": "QTa0MxuUDhdFwEdVNBxif"
+    }
+]
+2024-12-06 13:02:04,577 - Get All Orders: [
+    200,
+    [
+        {
+            "id": "2nqyaJHV5cuppOQH8V9a5",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T06:31:14.301Z",
+            "comment": ""
+        },
+        {
+            "id": "Tte6q0GBrtvZ_0UlH-e70",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:54:32.240Z",
+            "comment": ""
+        },
+        {
+            "id": "y7uWOFrD24jIy9winhUcL",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:57:22.235Z",
+            "comment": ""
+        },
+        {
+            "id": "Gt_q7rfU-SnuLQCVklf1T",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T11:29:18.747Z",
+            "comment": ""
+        },
+        {
+            "id": "j5HZWSXBZLfBYScCwm39B",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T04:29:58.494Z",
+            "comment": ""
+        },
+        {
+            "id": "t9QcOR0EhO8xl91ubGV9h",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:06:29.901Z",
+            "comment": ""
+        },
+        {
+            "id": "-BAqOBfuZzILRmZZxDcDB",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:07:05.124Z",
+            "comment": ""
+        },
+        {
+            "id": "9MQlRznN0IgBx74MH82FE",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:08:02.065Z",
+            "comment": ""
+        },
+        {
+            "id": "V9moZXdUxjIpZWO1F4Re_",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:17:56.566Z",
+            "comment": ""
+        },
+        {
+            "id": "AKyMgHk-theto9mxa9ov6",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:18:46.500Z",
+            "comment": ""
+        },
+        {
+            "id": "r-EzYoD2rYoP3ShZyLcfS",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:21:22.621Z",
+            "comment": ""
+        },
+        {
+            "id": "CuOqn-SQ14YA6Ww-qrgc4",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:22:07.156Z",
+            "comment": ""
+        },
+        {
+            "id": "r8Lt7PjuM_RdioHdXmtcx",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:22:19.623Z",
+            "comment": ""
+        },
+        {
+            "id": "5n70Ch2cmqyXgPbeEDnEA",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:30:25.979Z",
+            "comment": ""
+        },
+        {
+            "id": "icQaymrZ2-SgwTNVjE-J4",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:31:45.122Z",
+            "comment": ""
+        },
+        {
+            "id": "QTa0MxuUDhdFwEdVNBxif",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:32:03.225Z",
+            "comment": ""
+        }
+    ]
+]
+2024-12-06 13:02:05,805 - Get Single Order: [
+    404,
+    {
+        "error": "No order with id y26TC3FSZb0W2I3tD5_25."
+    }
+]
+2024-12-06 13:02:07,035 - Update Order: 404
+2024-12-06 13:02:08,239 - Delete Order: 404
+2024-12-06 13:02:34,582 - Get All Tools: [
+    200,
+    [
+        {
+            "id": 4643,
+            "category": "plumbing",
+            "name": "PEX Clamp Tool",
+            "inStock": true
+        },
+        {
+            "id": 1225,
+            "category": "power-tools",
+            "name": "1/2 in. Brushless Hammer Drill",
+            "inStock": true
+        },
+        {
+            "id": 2177,
+            "category": "ladders",
+            "name": "Cosco Three Step Steel Platform",
+            "inStock": true
+        },
+        {
+            "id": 6543,
+            "category": "electric-generators",
+            "name": "GENMAX 3200 Watt Inverter Generator",
+            "inStock": false
+        },
+        {
+            "id": 3674,
+            "category": "power-tools",
+            "name": "20V Max Cordless Drill Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 2585,
+            "category": "power-tools",
+            "name": "20V Max Drill & Home Tool Kit",
+            "inStock": true
+        },
+        {
+            "id": 5851,
+            "category": "power-tools",
+            "name": "20V MAX Cordless Drill Combo Kit",
+            "inStock": false
+        },
+        {
+            "id": 8739,
+            "category": "power-tools",
+            "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 1709,
+            "category": "ladders",
+            "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+            "inStock": true
+        },
+        {
+            "id": 7395,
+            "category": "ladders",
+            "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+            "inStock": true
+        },
+        {
+            "id": 8554,
+            "category": "trailers",
+            "name": "Tilt Trailer 7,000 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 8753,
+            "category": "plumbing",
+            "name": "Pipe Threader",
+            "inStock": true
+        },
+        {
+            "id": 9482,
+            "category": "plumbing",
+            "name": "Submersible Water Removal Pump",
+            "inStock": true
+        },
+        {
+            "id": 5477,
+            "category": "plumbing",
+            "name": "Manual Drain Auger 25ft",
+            "inStock": true
+        },
+        {
+            "id": 6483,
+            "category": "trailers",
+            "name": "Single Axle Dump Trailer 2,990 lbs",
+            "inStock": true
+        },
+        {
+            "id": 5774,
+            "category": "trailers",
+            "name": "Single Axle Utility Trailer 4,995 lbs.",
+            "inStock": true
+        },
+        {
+            "id": 4875,
+            "category": "electric-generators",
+            "name": "2800 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 5499,
+            "category": "electric-generators",
+            "name": "3000 Watt Inverter Generator",
+            "inStock": true
+        },
+        {
+            "id": 3486,
+            "category": "electric-generators",
+            "name": "7000 Watt Inverter Generator",
+            "inStock": true
+        }
+    ]
+]
+2024-12-06 13:02:35,809 - Get Single Tools: [
+    200,
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "manufacturer": "JWGJW",
+        "price": 3.45,
+        "current-stock": 14,
+        "inStock": true
+    }
+]
+2024-12-06 13:02:37,125 - Create New Order: [
+    201,
+    {
+        "created": true,
+        "orderId": "joUGKfhByFUof8TEoYcYU"
+    }
+]
+2024-12-06 13:02:38,235 - Get All Orders: [
+    200,
+    [
+        {
+            "id": "2nqyaJHV5cuppOQH8V9a5",
+            "toolId": 4643,
+            "customerName": "Joe",
+            "quantity": 1,
+            "created": "2024-12-05T06:31:14.301Z",
+            "comment": ""
+        },
+        {
+            "id": "Tte6q0GBrtvZ_0UlH-e70",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:54:32.240Z",
+            "comment": ""
+        },
+        {
+            "id": "y7uWOFrD24jIy9winhUcL",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T10:57:22.235Z",
+            "comment": ""
+        },
+        {
+            "id": "Gt_q7rfU-SnuLQCVklf1T",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-05T11:29:18.747Z",
+            "comment": ""
+        },
+        {
+            "id": "j5HZWSXBZLfBYScCwm39B",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T04:29:58.494Z",
+            "comment": ""
+        },
+        {
+            "id": "t9QcOR0EhO8xl91ubGV9h",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:06:29.901Z",
+            "comment": ""
+        },
+        {
+            "id": "-BAqOBfuZzILRmZZxDcDB",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:07:05.124Z",
+            "comment": ""
+        },
+        {
+            "id": "9MQlRznN0IgBx74MH82FE",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:08:02.065Z",
+            "comment": ""
+        },
+        {
+            "id": "V9moZXdUxjIpZWO1F4Re_",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:17:56.566Z",
+            "comment": ""
+        },
+        {
+            "id": "AKyMgHk-theto9mxa9ov6",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:18:46.500Z",
+            "comment": ""
+        },
+        {
+            "id": "r-EzYoD2rYoP3ShZyLcfS",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:21:22.621Z",
+            "comment": ""
+        },
+        {
+            "id": "CuOqn-SQ14YA6Ww-qrgc4",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:22:07.156Z",
+            "comment": ""
+        },
+        {
+            "id": "r8Lt7PjuM_RdioHdXmtcx",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:22:19.623Z",
+            "comment": ""
+        },
+        {
+            "id": "5n70Ch2cmqyXgPbeEDnEA",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:30:25.979Z",
+            "comment": ""
+        },
+        {
+            "id": "icQaymrZ2-SgwTNVjE-J4",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:31:45.122Z",
+            "comment": ""
+        },
+        {
+            "id": "QTa0MxuUDhdFwEdVNBxif",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:32:03.225Z",
+            "comment": ""
+        },
+        {
+            "id": "joUGKfhByFUof8TEoYcYU",
+            "toolId": 4643,
+            "customerName": "{{Dr. Essie Barrows}}",
+            "quantity": 1,
+            "created": "2024-12-06T07:32:37.017Z",
+            "comment": ""
+        }
+    ]
+]
+2024-12-06 13:02:39,320 - Get Single Order: [
+    200,
+    {
+        "id": "Gt_q7rfU-SnuLQCVklf1T",
+        "toolId": 4643,
+        "customerName": "{{Dr. Essie Barrows}}",
+        "createdBy": "a373ef72b2ac8adbff1399bed438e80d0fdfe11515871ef9714885ccebb2a91d",
+        "quantity": 1,
+        "created": "2024-12-05T11:29:18.747Z",
+        "timestamp": 1733398158747,
+        "processed": false,
+        "comment": ""
+    }
+]
+2024-12-06 13:02:40,520 - Update Order: 204
+2024-12-06 13:02:41,755 - Delete Order: 204
