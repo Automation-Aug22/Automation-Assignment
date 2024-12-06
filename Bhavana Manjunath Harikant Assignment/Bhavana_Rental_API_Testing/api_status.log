@@ -1,0 +1,230 @@
+2024-12-06 12:37:36,345 - Status Code: 200
+2024-12-06 12:37:36,346 - Text response: {"status":"UP"}
+2024-12-06 12:37:36,346 - Status Check Response JSON: {
+    "status": "UP"
+}
+2024-12-06 12:37:37,436 - Status Code: 200
+2024-12-06 12:37:37,436 - Text response: [{"id":4643,"category":"plumbing","name":"PEX Clamp Tool","inStock":true},{"id":1225,"category":"power-tools","name":"1/2 in. Brushless Hammer Drill","inStock":true},{"id":2177,"category":"ladders","name":"Cosco Three Step Steel Platform","inStock":true},{"id":6543,"category":"electric-generators","name":"GENMAX 3200 Watt Inverter Generator","inStock":false},{"id":3674,"category":"power-tools","name":"20V Max Cordless Drill Combo Kit","inStock":true},{"id":2585,"category":"power-tools","name":"20V Max Drill & Home Tool Kit","inStock":true},{"id":5851,"category":"power-tools","name":"20V MAX Cordless Drill Combo Kit","inStock":false},{"id":8739,"category":"power-tools","name":"18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit","inStock":true},{"id":1709,"category":"ladders","name":"Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs","inStock":true},{"id":1709,"category":"ladders","name":"Werner 356 Stepladder, 6-Foot, 100 lbs","inStock":true},{"id":7395,"category":"ladders","name":"Louisville Fiberglass Stepladder, 4 Ft, 300 lbs","inStock":true},{"id":8554,"category":"trailers","name":"Tilt Trailer 7,000 lbs.","inStock":true},{"id":8753,"category":"plumbing","name":"Pipe Threader","inStock":true},{"id":9482,"category":"plumbing","name":"Submersible Water Removal Pump","inStock":true},{"id":5477,"category":"plumbing","name":"Manual Drain Auger 25ft","inStock":true},{"id":6483,"category":"trailers","name":"Single Axle Dump Trailer 2,990 lbs","inStock":true},{"id":5774,"category":"trailers","name":"Single Axle Utility Trailer 4,995 lbs.","inStock":true},{"id":4875,"category":"electric-generators","name":"2800 Watt Inverter Generator","inStock":true},{"id":5499,"category":"electric-generators","name":"3000 Watt Inverter Generator","inStock":true},{"id":3486,"category":"electric-generators","name":"7000 Watt Inverter Generator","inStock":true}]
+2024-12-06 12:37:37,437 - Get all tools Response JSON: [
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "power-tools",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "ladders",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 6543,
+        "category": "electric-generators",
+        "name": "GENMAX 3200 Watt Inverter Generator",
+        "inStock": false
+    },
+    {
+        "id": 3674,
+        "category": "power-tools",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "power-tools",
+        "name": "20V Max Drill & Home Tool Kit",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "power-tools",
+        "name": "20V MAX Cordless Drill Combo Kit",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "power-tools",
+        "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "ladders",
+        "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "trailers",
+        "name": "Tilt Trailer 7,000 lbs.",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "plumbing",
+        "name": "Pipe Threader",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "plumbing",
+        "name": "Submersible Water Removal Pump",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "plumbing",
+        "name": "Manual Drain Auger 25ft",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "trailers",
+        "name": "Single Axle Dump Trailer 2,990 lbs",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "trailers",
+        "name": "Single Axle Utility Trailer 4,995 lbs.",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "electric-generators",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    },
+    {
+        "id": 5499,
+        "category": "electric-generators",
+        "name": "3000 Watt Inverter Generator",
+        "inStock": true
+    },
+    {
+        "id": 3486,
+        "category": "electric-generators",
+        "name": "7000 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+2024-12-06 12:37:38,598 - Status Code: 200
+2024-12-06 12:37:38,624 - Text response: [{"id":2177,"category":"ladders","name":"Cosco Three Step Steel Platform","inStock":true},{"id":1709,"category":"ladders","name":"Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs","inStock":true},{"id":1709,"category":"ladders","name":"Werner 356 Stepladder, 6-Foot, 100 lbs","inStock":true},{"id":7395,"category":"ladders","name":"Louisville Fiberglass Stepladder, 4 Ft, 300 lbs","inStock":true}]
+2024-12-06 12:37:38,628 - Get all tools Response JSON: [
+    {
+        "id": 2177,
+        "category": "ladders",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "ladders",
+        "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+        "inStock": true
+    }
+]
+2024-12-06 12:37:39,943 - Status Code: 200
+2024-12-06 12:37:39,944 - Text response: {"id":4643,"category":"plumbing","name":"PEX Clamp Tool","manufacturer":"JWGJW","price":3.45,"current-stock":14,"inStock":true}
+2024-12-06 12:37:39,944 - Get single tools Response JSON: {
+    "id": 4643,
+    "category": "plumbing",
+    "name": "PEX Clamp Tool",
+    "manufacturer": "JWGJW",
+    "price": 3.45,
+    "current-stock": 14,
+    "inStock": true
+}
+2024-12-06 12:37:41,303 - Status Code: 201
+2024-12-06 12:37:41,304 - Text response for create new order: {"created":true,"orderId":"zUEzAnIxXx7qIAMlya76w"}
+2024-12-06 12:37:41,305 - Get single tools Response JSON: {
+    "created": true,
+    "orderId": "zUEzAnIxXx7qIAMlya76w"
+}
+2024-12-06 12:37:42,484 - Status Code: 200
+2024-12-06 12:37:42,485 - Text response: [{"id":"nBXK02qI2egX_lwqtsglD","toolId":2177,"customerName":"Bhavana Harikant","quantity":1,"created":"2024-12-06T06:43:42.858Z","comment":""},{"id":"CGWDI1nK2tBmVMWcFya1e","toolId":2177,"customerName":"Bhavana Harikant","quantity":1,"created":"2024-12-06T07:05:16.883Z","comment":""},{"id":"zUEzAnIxXx7qIAMlya76w","toolId":2177,"customerName":"Bhavana Harikant","quantity":1,"created":"2024-12-06T07:07:41.196Z","comment":""}]
+2024-12-06 12:37:42,485 - Get all orders Response JSON: [
+    {
+        "id": "nBXK02qI2egX_lwqtsglD",
+        "toolId": 2177,
+        "customerName": "Bhavana Harikant",
+        "quantity": 1,
+        "created": "2024-12-06T06:43:42.858Z",
+        "comment": ""
+    },
+    {
+        "id": "CGWDI1nK2tBmVMWcFya1e",
+        "toolId": 2177,
+        "customerName": "Bhavana Harikant",
+        "quantity": 1,
+        "created": "2024-12-06T07:05:16.883Z",
+        "comment": ""
+    },
+    {
+        "id": "zUEzAnIxXx7qIAMlya76w",
+        "toolId": 2177,
+        "customerName": "Bhavana Harikant",
+        "quantity": 1,
+        "created": "2024-12-06T07:07:41.196Z",
+        "comment": ""
+    }
+]
+2024-12-06 12:37:43,822 - Status Code: 200
+2024-12-06 12:37:43,823 - Text response: {"id":"zUEzAnIxXx7qIAMlya76w","toolId":2177,"customerName":"Bhavana Harikant","createdBy":"65093012a2d938c6a363ecdee456a55b73e1d3b460c999767982fb2c23c68bc4","quantity":1,"created":"2024-12-06T07:07:41.196Z","timestamp":1733468861196,"processed":false,"comment":""}
+2024-12-06 12:37:43,823 - Get an single order Response JSON: {
+    "id": "zUEzAnIxXx7qIAMlya76w",
+    "toolId": 2177,
+    "customerName": "Bhavana Harikant",
+    "createdBy": "65093012a2d938c6a363ecdee456a55b73e1d3b460c999767982fb2c23c68bc4",
+    "quantity": 1,
+    "created": "2024-12-06T07:07:41.196Z",
+    "timestamp": 1733468861196,
+    "processed": false,
+    "comment": ""
+}
+2024-12-06 12:37:52,156 - Status Code: 204
+2024-12-06 12:37:53,370 - Status Code: 200
+2024-12-06 12:37:53,371 - Text response: {"id":"zUEzAnIxXx7qIAMlya76w","toolId":2177,"customerName":"nagaveni","createdBy":"65093012a2d938c6a363ecdee456a55b73e1d3b460c999767982fb2c23c68bc4","quantity":1,"created":"2024-12-06T07:07:41.196Z","timestamp":1733468861196,"processed":false,"comment":""}
+2024-12-06 12:37:53,371 - Get an updated order Response JSON: {
+    "id": "zUEzAnIxXx7qIAMlya76w",
+    "toolId": 2177,
+    "customerName": "nagaveni",
+    "createdBy": "65093012a2d938c6a363ecdee456a55b73e1d3b460c999767982fb2c23c68bc4",
+    "quantity": 1,
+    "created": "2024-12-06T07:07:41.196Z",
+    "timestamp": 1733468861196,
+    "processed": false,
+    "comment": ""
+}
+2024-12-06 12:37:54,625 - Status Code: 204
